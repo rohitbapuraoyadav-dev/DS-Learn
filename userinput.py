@@ -1,0 +1,7 @@
+print ("User Inputs")
+a=input("enter your name :")
+b=input("enter your surname :")
+c=input("enter your age :")
+print ("a name is :",a)
+print ("b surname is :",b)
+print ("enter your age :",c)
