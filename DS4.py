@@ -1,0 +1,5 @@
+print("ready")
+print("Starting data science learning...")
+print("Loading libraries...")
+print("Processing data...")
+print("Analysis complete!")
